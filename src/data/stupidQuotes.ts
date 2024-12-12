@@ -1,0 +1,17 @@
+export const stupidQuotes = [
+	"Crossing things off a to-do list feels good, so I just write down 'Make a to-do list' first thing.",
+	"Every time I try to eat healthy, a chocolate bar looks at me and Snickers.",
+	"My to-do list has three settings: procrastinate, forget, and panic.",
+	"I'm not lazy. I'm just in energy-saving mode.",
+	"Remember: a half-finished task is just a fully-started excuse.",
+	"If it's not done yet, maybe it was never meant to be done.",
+	"A to-do list is just a reminder that there's no such thing as free time.",
+	"Why do today what you can put off and feel equally bad about tomorrow?",
+	"Procrastination is like a credit card: it's a lot of fun until you get the bill.",
+	"Every unchecked box is a tiny monument to your unrealistic expectations.",
+	"I'm not a procrastinator. I'm just extremely productive at unimportant things.",
+	"Remember, you're the boss of your to-do list, which is why it has zero respect for you.",
+	"Procrastination is the art of keeping up with yesterday.",
+	"If you're overwhelmed, start with the easiest task: ignoring everything.",
+	"Why complete a task when you can just highlight it as 'in progress' forever?",
+];
